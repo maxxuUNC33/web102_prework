@@ -36,6 +36,8 @@ GIF created with [LiceCap]
 
 Describe any challenges encountered while building the app.
 
+I could not open the 27 minute submitting your project on github instruction video.
+Hopefully everything is on-par. 
 Nothing major in particular. But it did refresh my memory on basic javascript elements.
 
 ## License
